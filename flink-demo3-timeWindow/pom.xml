@@ -26,10 +26,10 @@ under the License.
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>flink-demo2-DataStreamAPI</artifactId>
+    <artifactId>flink-demo3-timeWindow</artifactId>
     <packaging>jar</packaging>
 
-    <name>flink-demo2-DataStreamAPI</name>
+    <name>flink-demo3-timeWindow</name>
     <url>http://www.myorganization.org</url>
 
     <repositories>
