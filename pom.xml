@@ -28,6 +28,7 @@ under the License.
         <module>flink-demo1-wordcount</module>
         <module>flink-demo2-DataStreamAPI</module>
         <module>flink-demo3-timeWindow</module>
+        <module>flink-demo4-EventTimeWindow</module>
     </modules>
     <packaging>pom</packaging>
 
